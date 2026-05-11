@@ -80,4 +80,6 @@ Zunhammer M, Spisák T, Wager TD, Bingel U., Placebo Imaging Consortium. **Meta-
 
 ## Preprints
 
-Spisák T, Hartmann H, Zunhammer M, Kincses B, Wiech K, Wager TD, Bingel U., Placebo Imaging Consortium. **Meta-analytic evidence for distinct neural correlates of conditioned vs. verbally induced placebo analgesia.** BioRxiv. 2025 May 21; [doi: ]()
+Wei Z, Spisák T, Timmann D, Scherrer G, Bingel U, Wager TD, Placebo Imaging Consortium. **Cerebellar activation in human placebo analgesia: Bridging findings from mice to humans.** BioRxiv. 2026 April 8; [doi: 10.64898/2026.04.07.717067](https://doi.org/10.64898/2026.04.07.717067)
+
+Spisák T, Hartmann H, Zunhammer M, Kincses B, Wiech K, Wager TD, Bingel U., Placebo Imaging Consortium. **Meta-analytic evidence for distinct neural correlates of conditioned vs. verbally induced placebo analgesia.** BioRxiv. 2025 May 21; [doi: 10.1101/2025.05.21.655287](https://doi.org/10.1101/2025.05.21.655287)
