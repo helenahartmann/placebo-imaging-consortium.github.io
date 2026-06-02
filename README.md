@@ -86,4 +86,4 @@ Spisák T, Hartmann H, Zunhammer M, Kincses B, Wiech K, Wager TD, Bingel U., Pla
 
 ## Associated projects
 
-[Meta-analysis on gender effects in placebo analgesia and nocebo hyperalgesia](/subpages/gender_project_md) (together with the Collaborative Research Center SFB/TRR 289 "Treatment Expectation") 
+[Meta-analysis on sex/gender effects in placebo analgesia and nocebo hyperalgesia](/subpages/SFB_Gender_Project_md) (together with the Collaborative Research Center SFB/TRR 289 "Treatment Expectation") 
