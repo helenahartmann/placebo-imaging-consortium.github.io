@@ -1,3 +1,5 @@
+![image](fig/sfb_trr_289-logo_jkb_farbe.png)
+
 # Sex/gender effects in placebo analgesia and nocebo hyperalgesia 
 
 In 2025, the Placebo Imaging Consortium (PIC) joined forces with the Collaborative Research Center SFB/TRR 289 "Treatment Expectation" to create a meta-analytic dataset that investigates both participant and experimenter sex/gender effects in placebo analgesia and nocebo hyperalgesia. At the moment, we are focusing on behavioral effects, but also want to investigate neuroimaging measures later.
