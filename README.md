@@ -1,6 +1,6 @@
 # Placebo Imaging Consortium
 
-## *An international consortium to foster the understanding of the placebo-effect with neuroimaing.*
+## *An international consortium to foster the understanding of the placebo effect with neuroimaging.*
 #### *Since 2015*
 
 ### Consortium Leaders
@@ -24,6 +24,8 @@
 *Dan-Mikael Ellingsen, PhD, Department of Physics and Computation al Radiology, Division of Radiology and Nuclear Medicine, Oslo University Hospital; School of Health Sciences, Kristiania University of Applied Sciences, Norway*
 
 *Sigrid Elsenbruch, PhD, Department for Neurology and Center for Translational and Behavioral Neuroscience, University Hospital Essen; Department of Medical Psychology and Medical Sociology, Ruhr University Bochum, Germany*
+
+*Sonya Freeman, PhD, Psychiatry Department, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA, USA*
 
 *Stephan Geuter, PhD, Johns Hopkins University, Baltimore, Maryland, United States*
 
@@ -86,4 +88,4 @@ Spisák T, Hartmann H, Zunhammer M, Kincses B, Wiech K, Wager TD, Bingel U., Pla
 
 ## Associated projects
 
-[Meta-analysis on sex/gender effects in placebo analgesia and nocebo hyperalgesia](/subpages/SFB_Gender_Project_md) (together with the Collaborative Research Center SFB/TRR 289 "Treatment Expectation") 
+[Meta-analysis on sex/gender effects in placebo analgesia and nocebo hyperalgesia](SFB_Gender_Project_md) (together with the Collaborative Research Center SFB/TRR 289 "Treatment Expectation") 
